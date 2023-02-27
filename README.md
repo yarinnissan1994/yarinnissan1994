@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yarin Nissan Avraham</h1>
 <h3 align="center">A passionate Full Stack developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
